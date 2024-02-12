@@ -5,9 +5,9 @@
 #/////////////////////////////////////////////////////////////////////////
 #//Author: By ./TREVOR-X403    Developer:RobotKu Pintar                                 //
 #//w buat cape cape, bukan untuk di salah gunakan, apalagi di     //
-#//Di buat: 17 - 09 - 2023                                              //
-#//release: 30 - 08 - 2023                                              //
-#//update : 11 - 10 - 2023                                               //
+#//Di buat: 17 - 09 - 2024                                              //
+#//release: 30 - 08 - 2024                                              //
+#//update : 11 - 10 - 2024                                               //
 #//     SEKALI LAGI JANGAN DI RUSAK ANJING GUA BUAT NYA CAPE LO          //
 #//          TINGGAL PAKE AJA APA SUSAH NYA SI KONTOL                    //
 #//                /NGA USAH BUAT PENCITRAAN          Ya Jembutty                  //
